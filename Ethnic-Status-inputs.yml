@@ -1,0 +1,87 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/white-ethnic-status---primary.py
+inputModule3:
+  class: File
+  path: python/ethnic-status-british---primary.py
+inputModule4:
+  class: File
+  path: python/ethnic-status-irish---primary.py
+inputModule5:
+  class: File
+  path: python/ethnic-status-group---primary.py
+inputModule6:
+  class: File
+  path: python/ethnic-status-scottish---primary.py
+inputModule7:
+  class: File
+  path: python/ethnic-status-caribbean---primary.py
+inputModule8:
+  class: File
+  path: python/ethnic-status-guyana---primary.py
+inputModule9:
+  class: File
+  path: python/ethnic-status-indian---primary.py
+inputModule10:
+  class: File
+  path: python/afric-ethnic-status---primary.py
+inputModule11:
+  class: File
+  path: python/ethnic-status-subcontinent---primary.py
+inputModule12:
+  class: File
+  path: python/ethnic-status-asian---primary.py
+inputModule13:
+  class: File
+  path: python/black-ethnic-status---primary.py
+inputModule14:
+  class: File
+  path: python/ethnic-status-pakistani---primary.py
+inputModule15:
+  class: File
+  path: python/ethnic-status-bangladeshi---primary.py
+inputModule16:
+  class: File
+  path: python/ethnic-status-greek---primary.py
+inputModule17:
+  class: File
+  path: python/turkish-ethnic-status---primary.py
+inputModule18:
+  class: File
+  path: python/ethnic-status-european---primary.py
+inputModule19:
+  class: File
+  path: python/mixed-ethnic-status---primary.py
+inputModule20:
+  class: File
+  path: python/ethnic-status-traveller---primary.py
+inputModule21:
+  class: File
+  path: python/ethnic-status-zealand---primary.py
+inputModule22:
+  class: File
+  path: python/ethnic-status-background---primary.py
+inputModule23:
+  class: File
+  path: python/ethnic-status-category---primary.py
+inputModule24:
+  class: File
+  path: python/ethnic-status-cypriot---primary.py
+inputModule25:
+  class: File
+  path: python/other-ethnic-status---primary.py
+inputModule26:
+  class: File
+  path: python/ethnic-status-unspecified---primary.py
+inputModule27:
+  class: File
+  path: python/ethnic-status-chinese---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
